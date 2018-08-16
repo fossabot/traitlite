@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/lejar/traitlite.svg?branch=master)](https://travis-ci.org/lejar/traitlite)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flejar%2Ftraitlite.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flejar%2Ftraitlite?ref=badge_shield)
 
 # traitlite
 
@@ -37,3 +38,7 @@ The docs can be found [here](https://traitlite.readthedocs.io/en/latest/). Alter
 make <target>
 ```
 in the docs folder of the project. To see a list of all the different targets, simply run make without any arguments.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flejar%2Ftraitlite.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flejar%2Ftraitlite?ref=badge_large)
